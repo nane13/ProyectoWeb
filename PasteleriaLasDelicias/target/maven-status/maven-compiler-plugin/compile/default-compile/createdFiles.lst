@@ -1,0 +1,6 @@
+basededatos\Conexion.class
+basededatos\CrudServlet.class
+com\mycompany\pastelerialasdelicias\JakartaRestConfiguration.class
+basededatos\PruebaConexion.class
+basededatos\ServletRegistroPedido.class
+com\mycompany\pastelerialasdelicias\resources\JakartaEE8Resource.class
